@@ -1,0 +1,76 @@
+.navbar {
+    background-color: #282a35;
+    text-align: center;
+    font-size: 25px;
+    height: 80px;
+    word-spacing: 20px;
+}
+
+.navbar a {
+    color: #ffffff;
+    text-decoration: none;
+    line-height: 80px;
+}
+
+.btn {
+    background-color: #04aa6d;
+    color: #ffffff;
+    border-image: initial;
+    border-style: outset;
+    font-size: 20px;
+    border-width: 2px;
+    padding: 10px;
+    border-color: #11b181;
+}
+
+.about {
+    background-color: #d9eee1;
+}
+
+.about p {
+    line-height: 40px;
+    text-indent: 20px;
+}
+
+.btn-2 {
+    background-color: black;
+}
+
+.tutorial {
+    text-indent: 20px;
+    line-height: 40px;
+}
+
+.example {
+   text-indent: 20px;
+    line-height: 40px; 
+}
+
+.w3-example {
+    background-color: #e7e9eb;
+}
+
+.w3-white{
+    padding: 8px 16px;
+    background-color: #fff;
+    margin: 0px 20px;
+}
+
+.w3-example p {
+    display: inline-block;
+
+}
+
+.w3-example .w3-btn {
+    background-color: #04AA6D;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 6px 18px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+
+
+
